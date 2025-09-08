@@ -1,6 +1,6 @@
 {
-  "name": "Cippo Chilometrico",
-  "short_name": "Cippo",
+  "name": "Cippo Chilometrico Test",
+  "short_name": "CippoTest",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#0f172a",
